@@ -144,3 +144,6 @@ app.listen(3000, () => {
 
 
 3) execute the file by , docker build -t ( image name to set) .=> run in the folder of the js file ( dont forgt to use dot
+
+
+4) run the docker command  docker run -p 4000:3000  image name
