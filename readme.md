@@ -141,3 +141,6 @@ app.get('/docker', (req, res) => {
 app.listen(3000, () => {
     console.log(`App running on port 4000`);
 });
+
+
+3) execute the file by , docker build -t ( image name to set) .=> run in the folder of the js file ( dont forgt to use dot
